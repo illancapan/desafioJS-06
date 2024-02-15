@@ -1,0 +1,23 @@
+body {
+    background-color: #2b4a64;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.converter-container {
+    background-color: #494c4e;
+    border-radius: 0.2rem;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#result-chart {
+    margin-top: 20px;
+    background-color: white;
+    display: none;
+    border-radius: 0.2rem;
+}
